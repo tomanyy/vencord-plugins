@@ -16,8 +16,6 @@ cd src/plugins
 ```
 
 Install your desired plugin
-
-<sub>Change the `pluginName` to the correct name</sub>
 ```bash
 npx degit tomanyy/vencord-plugins/pluginName pluginName
 ```
