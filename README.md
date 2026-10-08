@@ -1,4 +1,4 @@
-# My Vecnord Plugins
+# My Vencord Plugins
 A repository that contains all plugins that i have created.
 
 ## Installation
